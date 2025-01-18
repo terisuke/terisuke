@@ -12,3 +12,12 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/terisuke/contributions.svg" />
   </a>
 </p>
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terisuke&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=terisuke&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=terisuke&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=terisuke&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=terisuke&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=terisuke&theme=gruvbox)
