@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/terisuke/terisuke/output/github-contribution-grid-snake.svg)
+
 <p align="left">
   <a href="https://github.com/terisuke">
     <img height="20" src="https://komarev.com/ghpvc/?username=terisuke" />
@@ -13,6 +15,7 @@
   </a>
 </p>
 
+## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terisuke&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=terisuke&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=terisuke&theme=gruvbox)
