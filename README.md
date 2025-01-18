@@ -12,7 +12,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/terisuke/contributions.svg" />
   </a>
 </p>
-## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=terisuke&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=terisuke&theme=gruvbox)
