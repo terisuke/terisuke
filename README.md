@@ -24,3 +24,6 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=terisuke&theme=gruvbox)
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
