@@ -8,6 +8,8 @@ on:
 jobs:
   update-card:
     name: LAPRAS Card
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: kawamataryo/lapras-card-readme@main
@@ -19,3 +21,5 @@ jobs:
           BACKGROUND_SECOND: "#0E5593"
           LANG: "en"
           # ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
+        env:
+          GITHUB_TOKEN: ${{ secrets.SAMPLE_SECRETS }}

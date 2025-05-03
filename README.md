@@ -26,5 +26,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=terisuke&theme=gruvbox)
 
 <!--START_SECTION:lapras-card-->
-![LAPRAS Card](https://lapras-card-generator.vercel.app/?e=4.22&b=3.3&i=2.28&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en&u=R3L3ABC)
 <!--END_SECTION:lapras-card-->
